@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @procrastinatorcoder
-- 👀 I’m interested in python , machine learning , OOP
-- 🌱 I’m currently learning python
+- 👋 Hi, I’m @a1pharooster
+- 👀 I’m interested in Web Dev, Competitive Programming and Open Source.
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on nothin really yet
 - 📫 How to reach me varun7singh10@gmail.com
 
